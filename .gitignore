@@ -3,3 +3,13 @@
 ################################################################################
 
 /CrudC#DaoSqlClient/CRUD/.vs/CRUD
+/CrudC#DaoSqlClient/CRUD/CRUD.BUSINESS/obj/Debug
+/CrudC#DaoSqlClient/CRUD/CRUD.BUSINESS/bin/Debug
+/CrudC#DaoSqlClient/CRUD/CRUD.DAO/obj/Debug
+/CrudC#DaoSqlClient/CRUD/CRUD.DAO/bin/Debug
+/CrudC#DaoSqlClient/CRUD/CRUD.DATA/obj/Debug
+/CrudC#DaoSqlClient/CRUD/CRUD.DATA/bin/Debug
+/CrudC#DaoSqlClient/CRUD/CRUD.ENTIDADES/obj/Debug
+/CrudC#DaoSqlClient/CRUD/CRUD.ENTIDADES/bin/Debug
+/CrudC#DaoSqlClient/CRUD/CRUD.WebAplication/bin
+/CrudC#DaoSqlClient/CRUD/CRUD.WebAplication/obj/Debug
